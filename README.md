@@ -74,3 +74,7 @@ Opção fácil:
 - Base virtual 540x960 com letterbox + escala automática (`conf.lua` já seta retrato, highdpi, touch).
 - Botões com 68px de altura virtual (~área de dedo), cartas da mão com hitbox estendida.
 - Sem dependências, roda a 60fps em aparelho fraco.
+
+## Telas
+
+![Descrição da imagem](prints/01.png)
