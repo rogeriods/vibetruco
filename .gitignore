@@ -1,0 +1,38 @@
+# LÖVE / Love2D
+*.love
+*.exe
+*-love-*.zip
+love-*.AppImage
+Game-Français/
+__pycache__/
+
+# Builds e releases fundidos
+build/
+dist/
+releases/
+*.apk
+*.aab
+*.ipa
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.opencode/
+
+# Lua
+luacov.*
+*.lc
+
+# Logs e temporários
+*.log
+*.tmp
+.cache/
+net_test_out.txt
